@@ -2,7 +2,7 @@
 Простое веб-приложение на flask для поиска лучшего места по тегу
 
 Руководство по установке и запуску:
-1) загрузите проект из GitHub, добавьте на папку выше два файла:
+1) загрузите проект из GitHub, добавьте на папку выше файла main.py два файла:
   * googleApiKey.txt - ключ Google Maps API (используются Geocoding API и Places API)
   * oneCallApiKey.txt - ключ для обращения к API сервиса openweather (https://openweathermap.org/api/one-call-api)
 2) создайте окружение:
